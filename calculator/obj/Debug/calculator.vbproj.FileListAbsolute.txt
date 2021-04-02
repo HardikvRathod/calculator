@@ -1,0 +1,10 @@
+E:\VB.NET\calculator\calculator\bin\Debug\calculator.exe
+E:\VB.NET\calculator\calculator\bin\Debug\calculator.pdb
+E:\VB.NET\calculator\calculator\bin\Debug\calculator.xml
+E:\VB.NET\calculator\calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.Resources.resources
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.exe
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.xml
+E:\VB.NET\calculator\calculator\obj\Debug\calculator.pdb
